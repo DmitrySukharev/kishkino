@@ -11,6 +11,8 @@
 Возможный вариант будущего:
 - [x] README.md
 - [ ] index.html
+- [ ] Front page image?
+- [ ] Logo??
 - [ ] Историография
 - [ ] География
 - [ ] Биографии
@@ -19,12 +21,12 @@
 - [ ] About
 - [ ] Contacts / Socials
 - [ ] SOS?
-- [ ] Wiki
 - [ ] CSS?
 - [ ] JS??
 - [ ] domain name
 - [ ] hosting
 - [ ] SEO / Analytics etc
+- [ ] Wiki
 - [ ] Маркетинг
 - [ ] news.html
 
